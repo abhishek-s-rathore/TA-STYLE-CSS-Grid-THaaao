@@ -433,6 +433,8 @@ header label {
 .outer-box .box13,
 .outer-box .box15 {
   position: relative;
+  width: 100%;
+  padding-bottom: 40%;
 }
 
 .outer-box .image {
@@ -798,7 +800,7 @@ footer ul a {
   .outer-box .box11,
   .outer-box .box12,
   .outer-box .box13,
-  .outer-box .box15,
+  .outer-box .box14,
   .outer-box .box15,
   .outer-box .box16,
   .outer-box .box17 {
@@ -823,7 +825,7 @@ footer ul a {
   .outer-box .box11,
   .outer-box .box12,
   .outer-box .box13,
-  .outer-box .box15,
+  .outer-box .box14,
   .outer-box .box15,
   .outer-box .box16,
   .outer-box .box17 {
